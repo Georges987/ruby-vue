@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "flowbite": "^1.6.5",
+    "vite-plugin-full-reload": "^1.0.5"
+  },
+  "devDependencies": {
+    "vite": "^4.3.7",
+    "vite-plugin-ruby": "^3.2.2"
+  }
+}
