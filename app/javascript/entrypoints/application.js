@@ -26,3 +26,12 @@ console.log('Visit the guide for more information: ', 'https://vite-ruby.netlify
 
 // Example: Import a stylesheet in app/frontend/index.css
 // import '~/index.css'
+
+// Creation of vue App
+import { createApp } from 'vue'
+
+//Creation of components for vueJs
+import App from "../VuePages/App.vue"
+
+// Creation of proberly vue app
+const app = createApp(App).mount("#app");
